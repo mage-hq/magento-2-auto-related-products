@@ -1,5 +1,5 @@
 # magento-2-auto-related-products
-Magento 2 Auto Related Products extension automatically displays related products on the website, helping customers add necessary, related products to their order. Set up rules and conditions for displaying related products.
+Magento 2 Automatic Related Products extension displays related products on the website automatically, making customers buy useful, related products along with their order. Create rules and conditions for showing related products
 
 Please go to https://magehq.com/magento-2-auto-related-products.html buy extension
 
